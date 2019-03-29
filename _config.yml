@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/binle-code"
+# baseurl: "/binle-code"
 url: "https://binlecode.github.io"
 title: Bin Le's github
 description: "A website about coding and other things with Bin Le" # used by search engines
