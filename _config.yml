@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-# baseurl: "/binle-code"
-# url: "https://binlecode.github.io"
+baseurl: ""
+url: "http://binlecode.github.io"
 title: Bin Le's github
 description: "A website about coding and other things with Bin Le" # used by search engines
 
-incremental: true # enable incremental build
-
+# Enable incremental build during development
+incremental: true 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
